@@ -1,4 +1,4 @@
-(kodingprojects.github.com/start-here)[Start-Here Page]
+[Start-Here Page](http://kodingprojects.github.com/start-here)
 ==========
 
 GitHub 4 Koding Dummies
