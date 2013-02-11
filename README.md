@@ -1,7 +1,7 @@
 Koding Projects
 ========
 
-# NEWBIES! have you been [here](kodingprojects.github.com/start-here/)? (The "Start Here" Koding/GitHub Page)
+# NEWBIES! have you been [here](http://kodingprojects.github.com/start-here)? (The "Start Here" Koding/GitHub Page)
 
 ___
 **Before we jump into Git, GitHub and all that confusing stuff (don't feel bad about it, everyone was a noob at what they do once),**
