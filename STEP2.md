@@ -1,4 +1,4 @@
-Koding Projects will have 3 peimary functions initially:
+Koding Projects will have 3 primary functions initially:
 
 1. Gathering the global kdapps into one place
 2. Forum, Q&amp;A and similar functionality (e.g. if Koding is down, this may be a backup forum - depends on how popular it gets amongst other factors)
