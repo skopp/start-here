@@ -8,7 +8,8 @@ ___
 **we will instead focus on this Koding Projects repository __on__ Github itself.**
 
 Because it's meant more to use Github as a platform _for **something**_ rather than for the sake of using Github for the sake of using Github
-###That's it.
+
+# Are you a returning visitor? [here's "step 2"](https://github.com/kodingprojects/start-here/blob/master/STEP2.md)
 ___
 
 ` No team is a one man show. 
