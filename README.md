@@ -1,12 +1,15 @@
 Koding Projects
 ========
 
+# NEWBIES! have you been [here](http://kodingprojects.github.com/start-here)? (The "Start Here" Koding/GitHub Page)
+
 ___
 **Before we jump into Git, GitHub and all that confusing stuff (don't feel bad about it, everyone was a noob at what they do once),**
 **we will instead focus on this Koding Projects repository __on__ Github itself.**
 
 Because it's meant more to use Github as a platform _for **something**_ rather than for the sake of using Github for the sake of using Github
-###That's it.
+
+# Are you a returning visitor? [here's "step 2"](https://github.com/kodingprojects/start-here/blob/master/STEP2.md)
 ___
 
 ` No team is a one man show. 
